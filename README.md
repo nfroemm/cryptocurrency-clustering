@@ -32,6 +32,19 @@ Data is fetched in real time from [CryptoCompare.com](https://www.cryptocompare.
 
 ### 2.3. Reducing Dimensionality Using PCA/SVD
 
+TODO: Description.
+
+<img src="./images/pca-explained-variance.png" width="800px">
+
+<details>
+<summary>Dimensionality Reduction After Scikit-Learn's `StandardScaler()`</summary>
+
+TODO: Description.
+
+<img src="./images/pca-explained-variance-standard-scaler.png" width="550px">
+
+</details>
+
 ### 2.4. Clustering Cryptocurrencies Using K-Means
 
 ## 3. Results
