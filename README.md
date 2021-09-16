@@ -59,8 +59,16 @@ TODO: Description.
 
 TODO: Description.
 
-<img src="./images/kmeans-silhouette-plots.png" width="800px">
+<img src="./images/kmeans-silhouette-plots.png" width="600px">
 
-## 3. Results
+## 3. Visualizing Results
+
+<img src="./images/crypto-cluster-3d.png" width="800px">
+
+<img src="./images/crypto-cluster-table.png" width="800px">
+
+<img src="./images/crypto-fractions-coins-mined.png" width="800px">
+
+<img src="./images/crypto-coins-mined-vs-max-supply.png" width="800px">
 
 ## 4. Conclusion
