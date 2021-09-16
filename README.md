@@ -13,6 +13,8 @@
   - [2.2. Data Preprocessing](#22-data-preprocessing)
   - [2.3. Reducing Dimensionality Using PCA/SVD](#23-reducing-dimensionality-using-pcasvd)
   - [2.4. Clustering Cryptocurrencies Using K-Means](#24-clustering-cryptocurrencies-using-k-means)
+    - [2.4.1. Elbow Plot](#241-elbow-plot)
+    - [2.4.2. Silhouette Plots](#242-silhouette-plots)
 - [3. Results](#3-results)
 - [4. Conclusion](#4-conclusion)
 
@@ -46,6 +48,18 @@ TODO: Description.
 </details>
 
 ### 2.4. Clustering Cryptocurrencies Using K-Means
+
+#### 2.4.1. Elbow Plot
+
+TODO: Description.
+
+<img src="./images/kmeans-elbow-plot.png" width="800px">
+
+#### 2.4.2. Silhouette Plots
+
+TODO: Description.
+
+<img src="./images/kmeans-silhouette-plots.png" width="800px">
 
 ## 3. Results
 
